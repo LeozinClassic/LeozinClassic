@@ -1,8 +1,10 @@
-### Hi there 👋
+# Bem vindo ao meu perfil! 👋
 
-**LeozinClassic/LeozinClassic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá,eu sou Leonardo Plaskievicz, fascinado no mundo da técnologia e educaçâo. Focado em aprender programaçâo e tambem poder passar a diante meus conhecimentos adquiridos.
 
-Here are some ideas to get you started:
+## Conecte-se comigo 📱
+
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoplaskievicz/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
