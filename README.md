@@ -4,7 +4,7 @@ Olá,eu sou Leonardo Plaskievicz, fascinado no mundo da técnologia e educaçâo
 
 ## Conecte-se comigo 📱
 
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoplaskievicz/)                       - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardoplaskievicz/)
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoplaskievicz/)                                                                                                           - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardoplaskievicz/)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,java,python)](https://skillicons.dev)
 
