@@ -8,7 +8,7 @@ Olá,eu sou Leonardo Plaskievicz, fascinado no mundo da técnologia e educaçâo
 
 - <p align="left" grid-gap="20px">
   <a href="https://skillicons.dev%22%3E/
-      <img src="https://skillicons.dev/icons?i=,html,java,javascript,python" />
+      <img src="https://skillicons.dev/icons?i=html,java,javascript,python" />
   </a>
 </p>
 
