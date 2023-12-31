@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil! 👋
 
-Olá, eu sou Leonardo Plaskievicz, fascinado no mundo da técnologia e educaçâo. Focado em aprender programaçâo e tambem poder passar à diante meus conhecimentos adquiridos.
+Olá, eu sou Leonardo Plaskievicz, fascinado no mundo da técnologia e educaçâo. Focado em aprender programaçâo e tambem compartilhar meus conhecimentos adquiridos.
 
 ## Conecte-se comigo 📱
 
