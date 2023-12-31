@@ -6,7 +6,7 @@ Olá,eu sou Leonardo Plaskievicz, fascinado no mundo da técnologia e educaçâo
 
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoplaskievicz/)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,java,python)](https://skillicons.dev)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
